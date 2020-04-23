@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SimpleMicroservice2Application {
+public class SimpleMicroserviceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SimpleMicroservice2Application.class, args);
+		SpringApplication.run(SimpleMicroserviceApplication.class, args);
 	}
 
 }
